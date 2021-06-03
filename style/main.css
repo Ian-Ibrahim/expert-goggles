@@ -723,7 +723,6 @@ footer{
   flex-wrap:wrap;
 }
 .footer-img-container{
-  background: red;
   flex:1 1 33%;
   height: 5em;
   display: inline-block;
